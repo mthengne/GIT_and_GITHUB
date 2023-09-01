@@ -17,3 +17,26 @@ Pull operation using git pull command
 
 **git pull https://github.com/mthengne/Terraform-AWS.git**
 
+
+  git pull https://github.com/mthengne/Terraform-AWS.git
+  
+  516  ls -la
+  
+  517  less README.md
+   
+  520  vi README.md
+  
+  521  git status
+  
+  522  git add README.md
+  
+  523  git commit
+  
+  525  git status
+  
+  526  git commit -m "added content" README.md
+  
+  528  git remote add  origin "https://github.com/mthengne/Terraform-AWS.git"
+  
+  529  git push -u origin master
+
