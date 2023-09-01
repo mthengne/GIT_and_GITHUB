@@ -12,3 +12,8 @@ Again, you need to do this only once if you pass the --global option, because th
 You can view all of your settings and where they are coming from using:
 
 **$ git config --list --show-origin**
+
+Pull operation using git pull command
+
+**git pull https://github.com/mthengne/Terraform-AWS.git**
+
